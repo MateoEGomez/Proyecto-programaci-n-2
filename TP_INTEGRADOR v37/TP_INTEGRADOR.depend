@@ -1,0 +1,3627 @@
+# depslib dependency file v1.0
+1757812108 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador\main.cpp
+	<iostream>
+	"Persona.h"
+
+1757812009 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1757810771 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador\persona.h
+
+1757806988 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador\cliente.cpp
+	<iostream>
+
+1757807151 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador\empleado.cpp
+	<iostream>
+	"Empleado.h"
+
+1757807037 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador\empleado.h
+
+1758143377 source:c:\users\valen\downloads\tp_integrador\tp_integrador\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"Funciones.h"
+
+1758127336 source:c:\users\valen\downloads\tp_integrador\tp_integrador\main.cpp
+	<iostream>
+	<stdio.h>
+	"Persona.h"
+	"Empleado.h"
+	"Cliente.h"
+	"Funciones.h"
+
+1757815919 c:\users\valen\downloads\tp_integrador\tp_integrador\persona.h
+
+1757812009 source:c:\users\valen\downloads\tp_integrador\tp_integrador\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1757817397 c:\users\valen\downloads\tp_integrador\tp_integrador\empleado.h
+	"Persona.h"
+
+1757817464 source:c:\users\valen\downloads\tp_integrador\tp_integrador\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1757884327 c:\users\valen\downloads\tp_integrador\tp_integrador\cliente.h
+	"Persona.h"
+
+1758138244 source:c:\users\valen\downloads\tp_integrador\tp_integrador\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	"rlutil.h"
+	<limits>
+
+1758138160 c:\users\valen\downloads\tp_integrador\tp_integrador\funciones.h
+
+1571584339 c:\users\valen\downloads\tp_integrador\tp_integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1757898737 source:c:\users\valen\downloads\tp_integrador\tp_integrador\venta.cpp
+	<iostream>
+	"Venta.h"
+
+1757894273 c:\users\valen\downloads\tp_integrador\tp_integrador\venta.h
+	"Pelicula.h"
+
+1757894273 c:\users\valen\downloads\tp_integrador\tp_integrador\pelicula.h
+
+1757908881 source:c:\users\valen\downloads\tp_integrador\tp_integrador\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1757898853 source:c:\users\valen\downloads\tp_integrador\tp_integrador\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1757894273 c:\users\valen\downloads\tp_integrador\tp_integrador\sala.h
+
+1758152247 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"Funciones.h"
+
+1571584339 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1757884327 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\cliente.h
+	"Persona.h"
+
+1758151854 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\persona.h
+
+1758153348 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\funciones.h
+
+1758152792 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1758152709 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\empleado.h
+	"Persona.h"
+
+1758153416 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\funciones.cpp
+	<iostream>
+	"Funciones.h"
+	"rlutil.h"
+	<limits>
+
+1758153348 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\main.cpp
+	<iostream>
+	<stdio.h>
+	"Persona.h"
+	"Empleado.h"
+	"Cliente.h"
+	"Funciones.h"
+	"rlutil.h"
+
+1758152057 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1757908881 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1757894273 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\pelicula.h
+
+1757898853 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1757894273 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\sala.h
+
+1757898737 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\venta.cpp
+	<iostream>
+	"Venta.h"
+
+1757894273 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v5\venta.h
+	"Pelicula.h"
+
+1759348732 source:c:\users\valen\downloads\tp_integrador v6\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\valen\downloads\tp_integrador v6\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1759332920 c:\users\valen\downloads\tp_integrador v6\cliente.h
+	"Persona.h"
+
+1759332920 c:\users\valen\downloads\tp_integrador v6\persona.h
+
+1758224846 c:\users\valen\downloads\tp_integrador v6\funciones.h
+
+1758152792 source:c:\users\valen\downloads\tp_integrador v6\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1758152709 c:\users\valen\downloads\tp_integrador v6\empleado.h
+	"Persona.h"
+
+1759348720 source:c:\users\valen\downloads\tp_integrador v6\funciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+
+1759348742 source:c:\users\valen\downloads\tp_integrador v6\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"Persona.h"
+	"Empleado.h"
+	"Cliente.h"
+	"MisFunciones.h"
+	"rlutil.h"
+
+1759333066 source:c:\users\valen\downloads\tp_integrador v6\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1757898853 source:c:\users\valen\downloads\tp_integrador v6\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1757894273 c:\users\valen\downloads\tp_integrador v6\sala.h
+
+1758155699 source:c:\users\valen\downloads\tp_integrador v6\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+
+1757894273 c:\users\valen\downloads\tp_integrador v6\venta.h
+	"Pelicula.h"
+
+1757894273 c:\users\valen\downloads\tp_integrador v6\pelicula.h
+
+1758153909 source:c:\users\valen\downloads\tp_integrador v6\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1758162997 source:c:\users\valen\downloads\tp_integrador v6\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\valen\downloads\tp_integrador v6\archivo.h
+
+1759348689 source:c:\users\valen\downloads\tp_integrador v6\manager.cpp
+	<iostream>
+	"Manager.h"
+
+1759332920 c:\users\valen\downloads\tp_integrador v6\manager.h
+
+1758224846 c:\users\valen\downloads\tp_integrador v6\misfunciones.h
+
+1759348720 source:c:\users\valen\downloads\tp_integrador v6\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+
+1758162997 source:c:\users\valen\downloads\tp_integrador v7\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\valen\downloads\tp_integrador v7\archivo.h
+
+1760365592 c:\users\valen\downloads\tp_integrador v7\cliente.h
+	"Persona.h"
+
+1760361178 c:\users\valen\downloads\tp_integrador v7\persona.h
+
+1760365592 source:c:\users\valen\downloads\tp_integrador v7\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\valen\downloads\tp_integrador v7\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760316002 c:\users\valen\downloads\tp_integrador v7\misfunciones.h
+
+1760362773 source:c:\users\valen\downloads\tp_integrador v7\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\valen\downloads\tp_integrador v7\empleado.h
+	"Persona.h"
+
+1760378050 source:c:\users\valen\downloads\tp_integrador v7\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+
+1760381909 source:c:\users\valen\downloads\tp_integrador v7\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+
+1760375517 c:\users\valen\downloads\tp_integrador v7\manager.h
+
+1760379737 source:c:\users\valen\downloads\tp_integrador v7\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1758153909 source:c:\users\valen\downloads\tp_integrador v7\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1757894273 c:\users\valen\downloads\tp_integrador v7\pelicula.h
+
+1760363150 source:c:\users\valen\downloads\tp_integrador v7\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1757898853 source:c:\users\valen\downloads\tp_integrador v7\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1757894273 c:\users\valen\downloads\tp_integrador v7\sala.h
+
+1758155699 source:c:\users\valen\downloads\tp_integrador v7\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+
+1757894273 c:\users\valen\downloads\tp_integrador v7\venta.h
+	"Pelicula.h"
+
+1760358821 source:c:\users\valen\downloads\tp_integrador v7\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1760358734 c:\users\valen\downloads\tp_integrador v7\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1760358734 source:c:\users\valen\downloads\tp_integrador v7\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1760358734 c:\users\valen\downloads\tp_integrador v7\servicioempleado.h
+	"Empleado.h"
+
+1760375517 c:\users\valen\downloads\tp_integrador v7\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+
+1760381992 source:c:\users\valen\downloads\tp_integrador v7\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1758162997 source:c:\users\mateo\desktop\tp_integrador\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\mateo\desktop\tp_integrador\archivo.h
+
+1760365592 c:\users\mateo\desktop\tp_integrador\cliente.h
+	"Persona.h"
+
+1760361178 c:\users\mateo\desktop\tp_integrador\persona.h
+
+1760479151 source:c:\users\mateo\desktop\tp_integrador\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760479151 c:\users\mateo\desktop\tp_integrador\pelicula.h
+
+1758155699 source:c:\users\mateo\desktop\tp_integrador\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+
+1757894273 c:\users\mateo\desktop\tp_integrador\venta.h
+	"Pelicula.h"
+
+1571584339 c:\users\mateo\desktop\tp_integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760365592 source:c:\users\mateo\desktop\tp_integrador\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1760316002 c:\users\mateo\desktop\tp_integrador\misfunciones.h
+
+1760362773 source:c:\users\mateo\desktop\tp_integrador\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\mateo\desktop\tp_integrador\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\mateo\desktop\tp_integrador\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\mateo\desktop\tp_integrador\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1760378050 source:c:\users\mateo\desktop\tp_integrador\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+
+1760397072 c:\users\mateo\desktop\tp_integrador\manager.h
+
+1760375517 c:\users\mateo\desktop\tp_integrador\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+
+1760379737 source:c:\users\mateo\desktop\tp_integrador\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1760358734 c:\users\mateo\desktop\tp_integrador\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1760358734 c:\users\mateo\desktop\tp_integrador\servicioempleado.h
+	"Empleado.h"
+
+1760381992 source:c:\users\mateo\desktop\tp_integrador\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1760363150 source:c:\users\mateo\desktop\tp_integrador\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1760358821 source:c:\users\mateo\desktop\tp_integrador\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1760397072 source:c:\users\mateo\desktop\tp_integrador\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+
+1760479735 c:\users\mateo\desktop\tp_integrador\serviciosala.h
+	<string>
+	"Sala.h"
+
+1760480088 c:\users\mateo\desktop\tp_integrador\sala.h
+
+1760480088 source:c:\users\mateo\desktop\tp_integrador\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1760479922 source:c:\users\mateo\desktop\tp_integrador\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1760479151 source:c:\users\mateo\desktop\tp_integrador\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+
+1760358734 source:c:\users\mateo\desktop\tp_integrador\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1760397354 c:\users\mateo\desktop\tp_integrador\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1758162997 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\archivo.h
+
+1760365592 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\cliente.h
+	"Persona.h"
+
+1760361178 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\persona.h
+
+1760365592 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760316002 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\misfunciones.h
+
+1760362773 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1760479151 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\pelicula.h
+
+1760480088 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\sala.h
+
+1760830848 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+
+1760824942 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\manager.h
+
+1760834429 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+
+1760833229 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+
+1760358734 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1760358734 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\servicioempleado.h
+	"Empleado.h"
+
+1760479735 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\serviciosala.h
+	<string>
+	"Sala.h"
+
+1760379737 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1760838217 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"Pelicula.h"
+
+1760479151 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760363150 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1760480088 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1760358821 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1760358734 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1760479151 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+
+1760397354 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1760479922 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1758155699 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+
+1757894273 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v12\venta.h
+	"Pelicula.h"
+
+1758162997 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\archivo.h
+
+1760365592 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\cliente.h
+	"Persona.h"
+
+1760361178 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\persona.h
+
+1760365592 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760316002 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\misfunciones.h
+
+1760362773 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1760479151 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\pelicula.h
+
+1760480088 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\sala.h
+
+1760842913 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+
+1760824942 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\manager.h
+
+1760358734 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1760358734 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\servicioempleado.h
+	"Empleado.h"
+
+1760834429 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+
+1760479735 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\serviciosala.h
+	<string>
+	"Sala.h"
+
+1760379737 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1760845344 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"Pelicula.h"
+
+1760479151 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760363150 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1760480088 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1760358821 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1760358734 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1760842530 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+
+1760397354 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1760479922 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1758155699 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+
+1757894273 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\venta.h
+	"Pelicula.h"
+
+1760842968 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v13 - copia\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1758162997 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\archivo.h
+
+1760365592 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\cliente.h
+	"Persona.h"
+
+1760361178 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\persona.h
+
+1760365592 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760316002 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\misfunciones.h
+
+1760362773 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1760479151 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\pelicula.h
+
+1760480088 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\sala.h
+
+1760847647 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1760824942 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\manager.h
+
+1760834429 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+
+1760847647 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+
+1760358734 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1760358734 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\servicioempleado.h
+	"Empleado.h"
+
+1760479735 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\serviciosala.h
+	<string>
+	"Sala.h"
+
+1760397354 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1760379737 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1760479151 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760363150 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1760480088 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1760358821 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1760358734 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1760842530 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+
+1760479922 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1758155699 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+
+1757894273 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\venta.h
+	"Pelicula.h"
+
+1760846277 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador-v14\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"Pelicula.h"
+
+1758162997 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\archivo.h
+
+1760365592 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\cliente.h
+	"Persona.h"
+
+1760361178 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\persona.h
+
+1760365592 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760316002 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\misfunciones.h
+
+1760362773 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1760479151 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\pelicula.h
+
+1760480088 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\sala.h
+
+1760852604 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1760852589 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\manager.h
+
+1760851780 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+
+1760852536 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+
+1760358734 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1760358734 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\servicioempleado.h
+	"Empleado.h"
+
+1760479735 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\serviciosala.h
+	<string>
+	"Sala.h"
+
+1760852383 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1760379737 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1760479151 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760363150 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1760480088 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1760358821 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1760358734 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1760852383 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1760479922 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1758155699 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+
+1757894273 c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\venta.h
+	"Pelicula.h"
+
+1760852749 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador-v15\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+
+1758162997 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\archivo.h
+
+1760365592 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\cliente.h
+	"Persona.h"
+
+1760853765 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\persona.h
+
+1760365592 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760316002 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\misfunciones.h
+
+1760362773 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1760479151 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\pelicula.h
+
+1760480088 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\sala.h
+
+1760852604 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1760852589 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\manager.h
+
+1760851780 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+
+1760853765 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+
+1760358734 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1760358734 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\servicioempleado.h
+	"Empleado.h"
+
+1760479735 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\serviciosala.h
+	<string>
+	"Sala.h"
+
+1760852383 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1760379737 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1760852749 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+
+1760479151 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760853765 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1760480088 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1760358821 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1760358734 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1760852383 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1760479922 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1760907157 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1760928485 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\venta.h
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928485 source:c:\users\valen\downloads\tp_integrador-v15\tp_integrador\servicioventa.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Sala.h"
+	"ServicioVenta.h"
+
+1760907718 c:\users\valen\downloads\tp_integrador-v15\tp_integrador\servicioventa.h
+	"Pelicula.h"
+	"Venta.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1758162997 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\archivo.h
+
+1760365592 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\cliente.h
+	"Persona.h"
+
+1760853765 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\persona.h
+
+1760365592 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760316002 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\misfunciones.h
+
+1760362773 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1760479151 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\pelicula.h
+
+1760480088 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\sala.h
+
+1761089625 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1760852589 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\manager.h
+
+1761089919 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+
+1761088869 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+
+1760358734 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1760358734 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\servicioempleado.h
+	"Empleado.h"
+
+1760479735 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\serviciosala.h
+	<string>
+	"Sala.h"
+
+1761090314 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1760379737 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1761089956 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+
+1760479151 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760853765 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1760480088 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1760358821 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1760358734 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1761086839 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1760479922 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1760928485 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\servicioventa.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Sala.h"
+	"ServicioVenta.h"
+
+1760907718 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\servicioventa.h
+	"Pelicula.h"
+	"Venta.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928485 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\venta.h
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928506 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v17\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1758162997 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\archivo.h
+
+1760365592 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\cliente.h
+	"Persona.h"
+
+1760853765 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\persona.h
+
+1760365592 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760316002 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\misfunciones.h
+
+1760362773 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1761186545 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\pelicula.h
+
+1760480088 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\sala.h
+
+1761186155 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1760852589 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\manager.h
+
+1761089919 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+
+1761092120 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+
+1760358734 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1760358734 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\servicioempleado.h
+	"Empleado.h"
+
+1760479735 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\serviciosala.h
+	<string>
+	"Sala.h"
+
+1761090314 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1760379737 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1761186637 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760853765 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1760480088 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1760358821 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1760358734 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1761086839 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1760479922 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1760928485 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\servicioventa.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Sala.h"
+	"ServicioVenta.h"
+
+1760907718 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\servicioventa.h
+	"Pelicula.h"
+	"Venta.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928485 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\venta.h
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928506 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1761187524 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v18\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+
+1758162997 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\archivo.h
+
+1760365592 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\cliente.h
+	"Persona.h"
+
+1760853765 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\persona.h
+
+1760365592 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1760316002 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\misfunciones.h
+
+1760362773 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1761186545 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\pelicula.h
+
+1760480088 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\sala.h
+
+1761186155 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1760852589 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\manager.h
+
+1761089919 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+
+1761092120 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+
+1760358734 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1760358734 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\servicioempleado.h
+	"Empleado.h"
+
+1760479735 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\serviciosala.h
+	<string>
+	"Sala.h"
+
+1761090314 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1760379737 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1761186637 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760853765 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1760480088 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1760358821 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1760358734 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1761086839 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1760479922 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1760928485 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\servicioventa.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Sala.h"
+	"ServicioVenta.h"
+
+1760907718 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\servicioventa.h
+	"Pelicula.h"
+	"Venta.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928485 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\venta.h
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928506 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1761259747 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v19\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+
+1758162997 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\archivo.h
+
+1760365592 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\cliente.h
+	"Persona.h"
+
+1760853765 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\persona.h
+
+1760365592 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1761418043 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\misfunciones.h
+
+1760362773 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1761186545 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\pelicula.h
+
+1760480088 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\sala.h
+
+1761418542 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1761411787 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\manager.h
+
+1761418082 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+
+1761418587 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+
+1761332032 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1761414840 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\servicioempleado.h
+	"Empleado.h"
+
+1760479735 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\serviciosala.h
+	<string>
+	"Sala.h"
+
+1761412899 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1761418043 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+
+1761418043 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+
+1761186637 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760853765 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1760480088 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1761416888 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1761416888 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1761417162 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1760479922 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1760928485 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\servicioventa.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Sala.h"
+	"ServicioVenta.h"
+
+1760907718 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\servicioventa.h
+	"Pelicula.h"
+	"Venta.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928485 c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\venta.h
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928506 source:c:\users\valen\downloads\tp_integrador v20\tp_integrador v20\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1758162997 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\archivo.h
+
+1760365592 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\cliente.h
+	"Persona.h"
+
+1760853765 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\persona.h
+
+1760365592 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1761418043 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\misfunciones.h
+
+1760362773 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1761186545 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\pelicula.h
+
+1760480088 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\sala.h
+
+1761418542 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1761411787 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\manager.h
+
+1761418082 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+
+1761418587 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+
+1761332032 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1761414840 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\servicioempleado.h
+	"Empleado.h"
+
+1760479735 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\serviciosala.h
+	<string>
+	"Sala.h"
+
+1761412899 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1761432862 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+
+1761432952 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+
+1761186637 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760853765 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1760480088 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1761416888 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1761416888 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1761417162 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1760479922 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1760928485 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\servicioventa.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Sala.h"
+	"ServicioVenta.h"
+
+1760907718 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\servicioventa.h
+	"Pelicula.h"
+	"Venta.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928485 c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\venta.h
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928506 source:c:\users\thomas\desktop\tp integrador progra 2 - cine\tp_integrador v22\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1758162997 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\archivo.h
+
+1760365592 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\cliente.h
+	"Persona.h"
+
+1760853765 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\persona.h
+
+1760365592 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1761418043 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\misfunciones.h
+
+1760362773 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1761186545 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\pelicula.h
+
+1761443054 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\sala.h
+
+1761446533 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1761446217 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\manager.h
+
+1761446265 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1761446217 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+
+1761332032 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1761414840 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\servicioempleado.h
+	"Empleado.h"
+
+1760479735 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\serviciosala.h
+	<string>
+	"Sala.h"
+
+1761412899 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1761432862 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+
+1761446217 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+	"Sala.h"
+	"ServicioSala.h"
+
+1761186637 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760853765 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1761443054 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1761416888 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1761416888 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1761417162 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1760479922 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1760928485 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\servicioventa.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Sala.h"
+	"ServicioVenta.h"
+
+1760907718 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\servicioventa.h
+	"Pelicula.h"
+	"Venta.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928485 c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\venta.h
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928506 source:c:\users\valen\downloads\tp_integrador v23\tp_integrador v23\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1758162997 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\archivo.h
+
+1760365592 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\cliente.h
+	"Persona.h"
+
+1760853765 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\persona.h
+
+1760365592 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1761418043 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\misfunciones.h
+
+1760362773 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1761186545 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\pelicula.h
+
+1761601837 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\sala.h
+
+1761446533 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1761446217 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\manager.h
+
+1761601396 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1761446217 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+
+1761332032 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1761414840 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\servicioempleado.h
+	"Empleado.h"
+
+1761602710 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\serviciosala.h
+	<string>
+	"Sala.h"
+
+1761412899 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1761432862 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+
+1761186637 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760853765 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1761601822 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1761416888 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1761416888 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1761417162 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1760928485 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\servicioventa.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Sala.h"
+	"ServicioVenta.h"
+
+1760907718 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\servicioventa.h
+	"Pelicula.h"
+	"Venta.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928485 c:\users\rowing\music\tp_integrador v24\tp_integrador v23\venta.h
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928506 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1761601396 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+	"Sala.h"
+	"ServicioSala.h"
+
+1761602710 source:c:\users\rowing\music\tp_integrador v24\tp_integrador v23\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1758162997 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\archivo.cpp
+	<iostream>
+	"Archivo.h"
+	"Cliente.h"
+
+1758158108 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\archivo.h
+
+1760365592 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\cliente.h
+	"Persona.h"
+
+1760853765 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\persona.h
+
+1760365592 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1761418043 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\misfunciones.h
+
+1760362773 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1760361178 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\empleado.h
+	"Persona.h"
+
+1760400406 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1760397906 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+
+1761186545 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\pelicula.h
+
+1761601837 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\sala.h
+
+1761616880 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+
+1761616880 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\manager.h
+
+1761332032 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1761414840 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\servicioempleado.h
+	"Empleado.h"
+
+1761615809 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1761602710 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\serviciosala.h
+	<string>
+	"Sala.h"
+
+1761412899 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1761432862 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+
+1761186637 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1760853765 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1761601822 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1761416888 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1761416888 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1761417162 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1761616779 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1760928485 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\servicioventa.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Sala.h"
+	"ServicioVenta.h"
+
+1760907718 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\servicioventa.h
+	"Pelicula.h"
+	"Venta.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928485 c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\venta.h
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1760928506 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1761616880 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1761686851 source:c:\users\mateo\desktop\tp_integrador v25\tp_integrador v25\tp_integrador v23\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+	"Sala.h"
+	"ServicioSala.h"
+
+1763406669 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1761418043 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\misfunciones.h
+
+1571584339 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1763401385 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\manager.h
+
+1763431837 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Venta.h"
+
+1762331874 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\cliente.h
+	"Persona.h"
+
+1762328358 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\persona.h
+
+1762296315 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\empleado.h
+	"Persona.h"
+
+1762783656 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\pelicula.h
+
+1762800277 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\sala.h
+
+1763485498 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+	"ServicioFuncion.h"
+	"Venta.h"
+	"ServicioVenta.h"
+
+1761332032 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1761414840 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\servicioempleado.h
+	"Empleado.h"
+
+1763481089 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\serviciosala.h
+	<string>
+	"Sala.h"
+
+1761412899 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1763489385 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"ServicioSala.h"
+	"ServicioVenta.h"
+	"ServicioFuncion.h"
+
+1763436297 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\servicioventa.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Sala.h"
+	"ServicioVenta.h"
+	<cstdio>
+
+1763436297 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\servicioventa.h
+	"Pelicula.h"
+	"Venta.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1763345073 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\venta.h
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+	"Fecha.h"
+
+1763485951 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+	"Fecha.h"
+
+1762328470 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1763436221 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1763485158 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1762328358 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1762328358 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1762328358 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1763350970 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1763339447 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1763481089 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1763431628 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1762331984 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1763488834 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+	"Sala.h"
+	"ServicioSala.h"
+	"cstring"
+
+1763363722 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<ctime>
+	<iomanip>
+
+1763363722 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\fecha.h
+
+1763492061 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\serviciofuncion.cpp
+	<iostream>
+	"ServicioFuncion.h"
+	<cstdio>
+
+1763481484 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v26\serviciofuncion.h
+	"Funcion.h"
+
+1762331984 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1762331874 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\cliente.h
+	"Persona.h"
+
+1762328358 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\persona.h
+
+1761418043 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\misfunciones.h
+
+1762328470 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1762296315 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\empleado.h
+	"Persona.h"
+
+1763363722 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<ctime>
+	<iomanip>
+
+1763363722 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\fecha.h
+
+1763485158 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1763485951 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+	"Fecha.h"
+
+1762783656 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\pelicula.h
+
+1762800277 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\sala.h
+
+1763503306 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\main.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	"MisFunciones.h"
+	"rlutil.h"
+	"Manager.h"
+	"Pantallas.h"
+	"Pelicula.h"
+
+1763503240 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\manager.h
+
+1763503049 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Venta.h"
+
+1763345073 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\venta.h
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+	"Fecha.h"
+
+1763503240 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+	"ServicioFuncion.h"
+	"Venta.h"
+	"ServicioVenta.h"
+
+1761332032 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1761414840 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\servicioempleado.h
+	"Empleado.h"
+
+1763481089 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\serviciosala.h
+	<string>
+	"Sala.h"
+
+1761412899 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1763501475 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\serviciofuncion.h
+	"Funcion.h"
+
+1763500665 c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\servicioventa.h
+	"Pelicula.h"
+	"Venta.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1763495964 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"ServicioSala.h"
+	"ServicioVenta.h"
+	"ServicioFuncion.h"
+
+1763503030 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+	"Sala.h"
+	"ServicioSala.h"
+	"cstring"
+	"ServicioVenta.h"
+	"ServicioFuncion.h"
+
+1763436221 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1762328358 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1763339447 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1762328358 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1762328358 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1763501475 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\serviciofuncion.cpp
+	<iostream>
+	"ServicioFuncion.h"
+	<cstdio>
+
+1763350970 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1763481089 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1763500439 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\servicioventa.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Sala.h"
+	"ServicioVenta.h"
+	<cstdio>
+
+1763431628 source:c:\users\valen\downloads\tp_integrador v26\tp_integrador v26\tp_integrador v35\tp_integrador v26\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+	"Pelicula.h"
+	"Sala.h"
+
+1762331984 source:c:\users\mateo\desktop\tp_integrador v37\cliente.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Cliente.h"
+	"MisFunciones.h"
+
+1571584339 c:\users\mateo\desktop\tp_integrador v37\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1762331874 c:\users\mateo\desktop\tp_integrador v37\cliente.h
+	"Persona.h"
+
+1762328358 c:\users\mateo\desktop\tp_integrador v37\persona.h
+
+1761418043 c:\users\mateo\desktop\tp_integrador v37\misfunciones.h
+
+1762328470 source:c:\users\mateo\desktop\tp_integrador v37\empleado.cpp
+	<iostream>
+	<cstring>
+	"Empleado.h"
+
+1762296315 c:\users\mateo\desktop\tp_integrador v37\empleado.h
+	"Persona.h"
+
+1763363722 source:c:\users\mateo\desktop\tp_integrador v37\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<ctime>
+	<iomanip>
+
+1763363722 c:\users\mateo\desktop\tp_integrador v37\fecha.h
+
+1763485158 source:c:\users\mateo\desktop\tp_integrador v37\funcion.cpp
+	<iostream>
+	<cstring>
+	"Funcion.h"
+
+1763485951 c:\users\mateo\desktop\tp_integrador v37\funcion.h
+	"Pelicula.h"
+	"Sala.h"
+	"Fecha.h"
+
+1762783656 c:\users\mateo\desktop\tp_integrador v37\pelicula.h
+
+1762800277 c:\users\mateo\desktop\tp_integrador v37\sala.h
+
+1763503240 source:c:\users\mateo\desktop\tp_integrador v37\manager.cpp
+	<iostream>
+	"Manager.h"
+	"Cliente.h"
+	"rlutil.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"Empleado.h"
+	"ServicioEmpleado.h"
+	"Pantallas.h"
+	"ServicioSala.h"
+	"Sala.h"
+	"Pelicula.h"
+	"ServicioPelicula.h"
+	"ServicioFuncion.h"
+	"Venta.h"
+	"ServicioVenta.h"
+
+1763503240 c:\users\mateo\desktop\tp_integrador v37\manager.h
+
+1761332032 c:\users\mateo\desktop\tp_integrador v37\serviciocliente.h
+	<string>
+	"Cliente.h"
+
+1761414840 c:\users\mateo\desktop\tp_integrador v37\servicioempleado.h
+	"Empleado.h"
+
+1763503049 c:\users\mateo\desktop\tp_integrador v37\pantallas.h
+	"Cliente.h"
+	"Empleado.h"
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Venta.h"
+
+1763345073 c:\users\mateo\desktop\tp_integrador v37\venta.h
+	"Pelicula.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+	"Fecha.h"
+
+1763481089 c:\users\mateo\desktop\tp_integrador v37\serviciosala.h
+	<string>
+	"Sala.h"
+
+1761412899 c:\users\mateo\desktop\tp_integrador v37\serviciopelicula.h
+	<string>
+	"Pelicula.h"
+
+1763501475 c:\users\mateo\desktop\tp_integrador v37\serviciofuncion.h
+	"Funcion.h"
+
+1763500665 c:\users\mateo\desktop\tp_integrador v37\servicioventa.h
+	"Pelicula.h"
+	"Venta.h"
+	"Sala.h"
+	"Funcion.h"
+	"Cliente.h"
+
+1763495964 source:c:\users\mateo\desktop\tp_integrador v37\misfunciones.cpp
+	<iostream>
+	"MisFunciones.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"ServicioSala.h"
+	"ServicioVenta.h"
+	"ServicioFuncion.h"
+
+1763503030 source:c:\users\mateo\desktop\tp_integrador v37\pantallas.cpp
+	<iostream>
+	"Pantallas.h"
+	"rlutil.h"
+	<limits>
+	"Cliente.h"
+	"Empleado.h"
+	"MisFunciones.h"
+	"ServicioCliente.h"
+	"ServicioEmpleado.h"
+	"ServicioPelicula.h"
+	"Pelicula.h"
+	"Sala.h"
+	"ServicioSala.h"
+	"cstring"
+	"ServicioVenta.h"
+	"ServicioFuncion.h"
+
+1763436221 source:c:\users\mateo\desktop\tp_integrador v37\pelicula.cpp
+	<iostream>
+	<cstring>
+	"Pelicula.h"
+
+1762328358 source:c:\users\mateo\desktop\tp_integrador v37\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1763339447 source:c:\users\mateo\desktop\tp_integrador v37\sala.cpp
+	<iostream>
+	<cstring>
+	"Sala.h"
+
+1762328358 source:c:\users\mateo\desktop\tp_integrador v37\serviciocliente.cpp
+	<iostream>
+	<cstring>
+	"ServicioCliente.h"
+	"rlutil.h"
+
+1762328358 source:c:\users\mateo\desktop\tp_integrador v37\servicioempleado.cpp
+	<iostream>
+	"ServicioEmpleado.h"
+	"Empleado.h"
+
+1763501475 source:c:\users\mateo\desktop\tp_integrador v37\serviciofuncion.cpp
+	<iostream>
+	"ServicioFuncion.h"
+	<cstdio>
+
+1763350970 source:c:\users\mateo\desktop\tp_integrador v37\serviciopelicula.cpp
+	<iostream>
+	<cstring>
+	"ServicioPelicula.h"
+	"rlutil.h"
+	"Pelicula.h"
+
+1763481089 source:c:\users\mateo\desktop\tp_integrador v37\serviciosala.cpp
+	<iostream>
+	<string>
+	"rlutil.h"
+	"ServicioSala.h"
+
+1763500439 source:c:\users\mateo\desktop\tp_integrador v37\servicioventa.cpp
+	<iostream>
+	<cstring>
+	"rlutil.h"
+	"Sala.h"
+	"ServicioVenta.h"
+	<cstdio>
+
+1763431628 source:c:\users\mateo\desktop\tp_integrador v37\venta.cpp
+	<iostream>
+	"Venta.h"
+	"rlutil.h"
+	"Pelicula.h"
+	"Sala.h"
+
